@@ -7,3 +7,5 @@ for android application development:
 * AndroidUtils contains general helpers (such as showing a simple Alert Dialog)
 * JSONArrayList wraps a JSONArray into an iterable Collection (for use with Functional.java or just simple foreach-loops)
 * StringUtils contains android specific helper methods (such as localizing a format-string)
+* SimpleFusedLocationListener contains a simple interface to Googles fused
+  Location APIs that includes all the boilerplate needed to use it
